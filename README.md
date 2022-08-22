@@ -14,8 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 https://github.com/dalwid
+https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dalwid)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dalwid)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dalwid&show_icons=true&theme=default)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+
+
+
+
